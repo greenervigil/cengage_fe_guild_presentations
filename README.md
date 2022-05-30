@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Cengage Group Front End Guild Presentations
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
