@@ -1,0 +1,23 @@
+.contact {
+    background-color: #414288;
+    height: 30vh;
+}
+
+.contact_form {
+    display: flex; 
+    flex-direction: column; 
+    width: 30vw; 
+    margin: 0 auto; 
+    justify-content: center; 
+    align-items: center; 
+    border: 2px solid #000;
+    border-radius: 3px;
+    box-shadow: 5px 5px #000; 
+    padding: 0 0 10px 0;
+    background-color: #fff;
+}
+
+.home {
+    background-color: #deefb7;
+    text-align: center;
+}
