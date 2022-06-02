@@ -68,7 +68,7 @@ nav ul li {
 .tech {
     background-color: #98dfaf;
     width: 100vw;
-    height: 30vh;
+    height: auto;
     text-align: center;
     padding: 10px;
     text-align: center;
