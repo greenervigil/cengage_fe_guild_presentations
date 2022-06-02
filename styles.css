@@ -1,6 +1,8 @@
 .contact {
     background-color: #414288;
     height: 30vh;
+    padding: 20px;
+    width: 100vw;
 }
 
 .contact_form {
@@ -19,6 +21,55 @@
 
 .home {
     background-color: #deefb7;
+    height: 40vh;
+    padding: 30px;
+    width: 100vw;
+}
+
+.mission {
+    background-color: #fff;
+    width: 30%;
+    height: 50%;
     text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    border: 2px solid #000;
+    border-radius: 3px;
+    box-shadow: 5px 5px #000; 
+}
+
+header {
+    height: 50px;
+}
+
+nav {
+    display: inline;
+}
+
+nav ul {
+    list-style: none;
+    float: right;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0 10px;
+}
+
+.button {
+    background-color: #682d63;
+    color: #fff;
+    border: 2px solid #000;
+    border-radius: 3px;
+    box-shadow: 5px 5px #000;
+    margin: 10px;
+}
+
+.tech {
+    background-color: #98dfaf;
+    width: 100vw;
     height: 30vh;
+    text-align: center;
+    padding: 10px;
+    text-align: center;
 }
