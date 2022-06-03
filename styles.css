@@ -124,7 +124,7 @@ nav ul li {
     padding: 10px;
   }
 
-  .learning-path h1 {
+  .learning-path h1, .learning-path p {
     text-align: center;
     color: #fff;
 }
