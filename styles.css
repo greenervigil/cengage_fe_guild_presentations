@@ -24,6 +24,7 @@
     height: 40vh;
     padding: 30px;
     width: 100vw;
+    display: flex;
 }
 
 .mission {
@@ -36,6 +37,25 @@
     border: 2px solid #000;
     border-radius: 3px;
     box-shadow: 5px 5px #000; 
+}
+
+.events h3 {
+    text-align: center;
+}
+
+.events {
+    background-color: #fff;
+    width: 30%;
+    height: 50%;
+    padding: 10px;
+    margin: 0 auto;
+    border: 2px solid #000;
+    border-radius: 3px;
+    box-shadow: 5px 5px #000;
+}
+
+.events li {
+    display: list-item;
 }
 
 header {
