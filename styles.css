@@ -83,3 +83,23 @@ nav ul li {
     padding: 10px;
     text-align: center;
 }
+
+.card {
+    border: 2px solid #000;
+    border-radius: 3px;
+    box-shadow: 5px 5px #000;
+    width: 20%;
+    text-align: center;
+}
+
+.card-list {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.card-list a {
+    text-decoration: none;
+    color: #000;
+    width: 100%;
+}
